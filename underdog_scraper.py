@@ -85,17 +85,37 @@ class UnderdogScraper:
         df = df.reset_index(drop=True)
 
         return df
+    
     def scrape(self):
         all_pickem_data = self.fetch_data()
         players, appearances, over_under_lines = self.combine_data(all_pickem_data)
         processed_props = self.process_data(players, appearances, over_under_lines)
         self.underdog_props = self.filter_data(processed_props)
 
-        #print(self.underdog_props)
+        # Ensure full_name is properly constructed
+        self.underdog_props["full_name"] = self.underdog_props["first_name"].fillna("") + " " + self.underdog_props["last_name"].fillna("")
+        self.underdog_props["full_name"] = self.underdog_props["full_name"].str.strip()  # Remove extra spaces
 
-        # Save the DataFrame as a CSV file
-        self.underdog_props.to_csv('underdog_props.csv', index=False)
-        print("Data saved to underdog_props.csv")
+        # Keep only essential columns
+        columns_to_keep = [
+            "full_name",            # Player Name
+            "team_id",              # Team Name
+            "sport_id",             # Esports Game Type (LOL, CSGO, etc.)
+            "stat_name",            # Statistic being measured (kills, assists, etc.)
+            "stat_value",           # Value of the over/under line
+            "choice",               # Over or Under
+            "american_price",       # Betting odds in American format (+100, -120, etc.)
+            "decimal_price"         # Betting odds in Decimal format (2.0, 1.85, etc.)
+        ]
+
+        # Keep only the selected columns (ignore missing ones)
+        self.underdog_props = self.underdog_props[columns_to_keep]
+
+        # Save as an Excel file
+        excel_filename = "underdog_esports_data.xlsx"
+        self.underdog_props.to_excel(excel_filename, index=False)
+
+        print(f"Esports data saved to {excel_filename}")
 
 # Usage example:
 scraper = UnderdogScraper()
