@@ -1,4 +1,644 @@
 match-datetime,team1,team2,team1-score,team2-score,team1-odds,team2-odds,player-name,player-team,agent,rating,acs,k,d,a
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,al1en,VX300 Gaming,Astra,2.39,393,26,3,6
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,Anq,VX300 Gaming,Raze,1.42,269,17,8,1
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,basya,VX300 Gaming,Killjoy,1.24,220,11,8,5
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,DrastZ,VX300 Gaming,Omen,1.08,170,9,7,9
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,Ivan4ezz,VX300 Gaming,Skye,0.74,110,7,8,2
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,Browse,LONETEAM,Killjoy,1.17,234,14,13,1
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,FrancyBald,LONETEAM,Omen,0.68,172,8,15,4
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,Lupo,LONETEAM,Deadlock,0.44,92,4,14,4
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,jimbk,LONETEAM,Neon,0.41,119,6,14,3
+2024-06-30 13:00:00,VX300 Gaming,LONETEAM,13,3,1.65,2.54,Ayyzicle,LONETEAM,Fade,0.30,43,2,14,4
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,szimpli,DVM Esport,Phoenix,1.30,279,21,15,4
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,juseu,DVM Esport,Raze,0.97,197,15,15,2
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,MARCTYLINHO,DVM Esport,Omen,0.73,160,11,15,3
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,pa1ka,DVM Esport,Cypher,0.58,147,11,17,3
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,Foxie,DVM Esport,Fade,0.56,158,10,17,3
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,UNFAKE,Zerance,Sova,1.49,258,21,12,3
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,Jady,Zerance,Cypher,1.47,264,22,12,2
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,Babax,Zerance,Omen,1.15,185,14,12,8
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,Veqaj,Zerance,Breach,0.91,148,9,13,13
+2024-06-30 12:00:00,DVM Esport,Zerance,8,13,4.12,1.32,lux9,Zerance,Raze,0.72,193,13,19,4
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,pa1ka,DVM Esport,Viper,1.20,189,14,14,9
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,szimpli,DVM Esport,Jett,1.19,263,22,16,2
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,MARCTYLINHO,DVM Esport,Astra,1.05,173,15,14,10
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,Foxie,DVM Esport,Skye,1.00,151,13,14,4
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,juseu,DVM Esport,Raze,0.73,139,10,17,4
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,lux9,Zerance,Jett,1.19,258,22,15,1
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,Babax,Zerance,Omen,1.05,187,15,13,6
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,Jady,Zerance,Viper,1.03,207,16,16,7
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,Veqaj,Zerance,Raze,0.79,163,12,15,5
+2024-06-30 12:00:00,DVM Esport,Zerance,13,10,1.32,4.12,UNFAKE,Zerance,Skye,0.77,132,10,15,9
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,juseu,DVM Esport,Raze,1.39,279,23,15,3
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,MARCTYLINHO,DVM Esport,Omen,1.15,217,18,14,8
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,pa1ka,DVM Esport,Cypher,0.90,184,15,15,4
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,szimpli,DVM Esport,Phoenix,0.86,153,15,15,5
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,Foxie,DVM Esport,Fade,0.69,162,12,17,10
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,Jady,Zerance,Cypher,1.32,250,19,14,6
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,Veqaj,Zerance,Viper,1.08,204,17,17,8
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,UNFAKE,Zerance,Skye,0.85,165,13,18,11
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,lux9,Zerance,Raze,0.85,199,16,18,5
+2024-06-30 12:00:00,DVM Esport,Zerance,11,13,4.12,1.32,Babax,Zerance,Omen,0.69,120,11,16,6
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,Filu,DSYRE,Raze,1.61,279,18,8,3
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,wackie,DSYRE,Gekko,1.49,275,18,11,4
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,Tag,DSYRE,Viper,1.18,206,12,10,7
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,waddle,DSYRE,Skye,1.09,177,11,9,7
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,caydeN,DSYRE,Brimstone,1.04,243,13,13,11
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,d3mur,Outplayed,Raze,1.06,229,13,14,2
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,shinnok,Outplayed,Cypher,0.80,189,12,14,2
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,Z3RO,Outplayed,Brimstone,0.80,176,10,15,8
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,sword,Outplayed,Viper,0.66,136,10,14,1
+2024-06-30 12:00:00,DSYRE,Outplayed,13,4,1.13,8.69,Morphiw0w,Outplayed,Skye,0.56,121,6,15,11
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,Depyro,Team RA'AD,Sage,1.15,225,15,13,8
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,Yassien,Team RA'AD,Gekko,1.01,232,15,16,3
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,Shalaby,Team RA'AD,Killjoy,0.95,189,12,14,5
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,Shniider,Team RA'AD,Clove,0.54,187,13,20,3
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,chrollo,Team RA'AD,Viper,0.46,133,8,16,2
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,SimonD4rk,R8 Esports,Reyna,1.41,328,22,14,2
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,Winteryrook,R8 Esports,Sage,1.32,311,19,15,8
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,Bgg,R8 Esports,Viper,1.12,217,13,13,10
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,moner,R8 Esports,Killjoy,1.05,160,13,10,2
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,6,13,2.54,1.65,sickrey,R8 Esports,Gekko,1.01,154,12,11,7
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,Shniider,Team RA'AD,Deadlock,1.12,261,30,24,8
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,Shalaby,Team RA'AD,Clove,0.89,189,23,22,2
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,Depyro,Team RA'AD,Omen,0.87,179,17,24,16
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,Yassien,Team RA'AD,Raze,0.86,197,19,24,11
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,chrollo,Team RA'AD,Fade,0.71,126,12,21,12
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,Winteryrook,R8 Esports,Astra,1.31,238,28,20,9
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,SimonD4rk,R8 Esports,Raze,1.21,282,27,22,11
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,Bgg,R8 Esports,Omen,1.17,192,22,20,9
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,sickrey,R8 Esports,Skye,1.13,201,21,20,20
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,14,16,2.54,1.65,moner,R8 Esports,Killjoy,0.94,164,17,19,5
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,Yassien,Team RA'AD,Raze,1.35,269,20,15,4
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,Depyro,Team RA'AD,Skye,1.04,209,13,15,10
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,Shniider,Team RA'AD,Viper,0.68,164,11,17,4
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,Shalaby,Team RA'AD,Cypher,0.61,122,7,15,6
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,chrollo,Team RA'AD,Omen,0.51,104,7,17,5
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,Winteryrook,R8 Esports,Viper,1.55,302,21,12,9
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,SimonD4rk,R8 Esports,Raze,1.23,275,19,14,6
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,sickrey,R8 Esports,Skye,1.22,160,12,11,18
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,moner,R8 Esports,Cypher,1.17,186,14,11,8
+2024-06-30 12:00:00,Team RA'AD,R8 Esports,7,13,2.54,1.65,Bgg,R8 Esports,Omen,1.07,167,13,10,7
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,Treelover,ESC Gaming,Viper,1.51,274,23,14,4
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,nyczu,ESC Gaming,Killjoy,1.02,190,16,15,3
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,qxv,ESC Gaming,Gekko,0.99,197,16,17,8
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,Hitch,ESC Gaming,Kayo,0.76,164,12,19,19
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,shy,ESC Gaming,Jett,0.75,201,17,19,4
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,Chadi,NOM Esports,Jett,1.95,358,31,13,2
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,Zneva,NOM Esports,Killjoy,1.19,210,20,15,5
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,Bard0lf,NOM Esports,Viper,1.01,197,16,16,7
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,nero,NOM Esports,Sova,0.60,123,10,18,5
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,11,13,1.95,2.05,litshii,NOM Esports,Sage,0.28,90,7,22,8
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,qxv,ESC Gaming,Sova,1.19,258,19,17,7
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,Hitch,ESC Gaming,Kayo,0.99,189,14,16,10
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,nyczu,ESC Gaming,Killjoy,0.89,146,11,14,3
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,shy,ESC Gaming,Jett,0.78,202,15,18,3
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,Treelover,ESC Gaming,Omen,0.62,102,8,15,7
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,Bard0lf,NOM Esports,Omen,1.29,275,21,16,10
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,litshii,NOM Esports,Kayo,1.28,230,18,13,13
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,Zneva,NOM Esports,Killjoy,1.14,205,16,12,2
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,nero,NOM Esports,Sova,1.07,154,12,12,7
+2024-06-30 11:00:00,ESC Gaming,NOM Esports,9,13,1.95,2.05,Chadi,NOM Esports,Jett,0.93,168,13,14,6
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,Karma,ALTERNATE aTTaX,Cypher,1.01,241,12,14,2
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,KovaQ,ALTERNATE aTTaX,Sova,0.78,183,10,13,4
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,Jini,ALTERNATE aTTaX,Omen,0.53,160,8,13,4
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,STAVINCI,ALTERNATE aTTaX,Breach,0.37,132,6,15,3
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,Magnus,ALTERNATE aTTaX,Neon,0.30,87,4,14,0
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,starki,MOUZ,Omen,1.82,324,17,7,17
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,Fizzy,MOUZ,Killjoy,1.74,278,17,6,0
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,xuss,MOUZ,Jett,1.49,301,17,8,7
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,iluri,MOUZ,Breach,0.99,154,9,9,5
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,2,13,4.57,1.28,Obnoks,MOUZ,Sova,0.95,174,9,10,5
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,STAVINCI,ALTERNATE aTTaX,Gekko,1.13,203,18,17,5
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,Jini,ALTERNATE aTTaX,Omen,0.97,191,15,17,6
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,KovaQ,ALTERNATE aTTaX,Kayo,0.88,158,12,16,11
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,Karma,ALTERNATE aTTaX,Cypher,0.56,117,8,18,2
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,Magnus,ALTERNATE aTTaX,Raze,0.54,136,11,19,1
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,xuss,MOUZ,Raze,1.30,311,25,15,3
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,Fizzy,MOUZ,Cypher,1.22,230,22,13,4
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,iluri,MOUZ,Breach,1.05,137,13,10,5
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,Obnoks,MOUZ,Sova,1.02,201,16,14,5
+2024-06-30 10:35:00,ALTERNATE aTTaX,MOUZ,10,13,4.57,1.28,starki,MOUZ,Omen,0.84,144,11,12,5
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,VenTT,HOWL Esports,Brimstone,1.62,308,26,13,5
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,Anima,HOWL Esports,Skye,1.04,180,16,15,3
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,xeus,HOWL Esports,Raze,0.89,224,20,18,0
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,Crewen,HOWL Esports,Viper,0.67,161,12,18,7
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,Gloomy,HOWL Esports,Gekko,0.60,155,12,19,6
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,sh1va,İstanbul Wildcats,Cypher,1.80,277,25,11,3
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,deminatiX,İstanbul Wildcats,Yoru,1.37,302,23,19,7
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,dRKY,İstanbul Wildcats,Breach,0.85,168,15,19,8
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,baha,İstanbul Wildcats,Raze,0.66,174,15,19,3
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,13,11,2.9,1.53,MERZ,İstanbul Wildcats,Omen,0.38,76,5,18,11
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,Crewen,HOWL Esports,Killjoy,1.19,252,23,17,2
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,Anima,HOWL Esports,Skye,1.02,152,13,14,8
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,xeus,HOWL Esports,Jett,0.90,233,18,20,5
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,VenTT,HOWL Esports,Harbor,0.86,210,16,19,13
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,Gloomy,HOWL Esports,Viper,0.41,119,8,19,10
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,deminatiX,İstanbul Wildcats,Jett,1.68,343,29,15,2
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,sh1va,İstanbul Wildcats,Killjoy,1.26,277,22,16,4
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,baha,İstanbul Wildcats,Gekko,1.10,209,16,16,7
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,dRKY,İstanbul Wildcats,Harbor,0.84,124,10,14,10
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,10,13,1.53,2.9,MERZ,İstanbul Wildcats,Kayo,0.75,156,12,18,13
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,Anima,HOWL Esports,Kayo,1.55,284,20,15,15
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,VenTT,HOWL Esports,Omen,0.98,180,15,15,8
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,Gloomy,HOWL Esports,Gekko,0.90,150,11,16,8
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,xeus,HOWL Esports,Raze,0.79,214,15,18,3
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,Crewen,HOWL Esports,Cypher,0.56,124,9,17,6
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,MERZ,İstanbul Wildcats,Sova,1.45,261,20,13,9
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,deminatiX,İstanbul Wildcats,Neon,1.40,325,25,17,3
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,dRKY,İstanbul Wildcats,Breach,1.14,186,15,12,10
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,baha,İstanbul Wildcats,Omen,0.97,178,14,15,12
+2024-06-30 10:30:00,HOWL Esports,İstanbul Wildcats,9,13,1.53,2.9,sh1va,İstanbul Wildcats,Cypher,0.61,84,7,13,3
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,Marky,Metizport,Raze,1.45,350,29,19,3
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,Luca,Metizport,Killjoy,1.10,197,18,16,5
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,melo,Metizport,Fade,0.65,113,8,17,8
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,stike,Metizport,Omen,0.61,139,12,20,5
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,OzzyTK,Metizport,Viper,0.57,156,14,20,4
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,Creamydreamy,SweetNsour,Fade,1.47,228,20,14,12
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,Ticey,SweetNsour,Raze,1.45,267,23,14,5
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,Famzzam,SweetNsour,Viper,1.24,246,21,17,5
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,HearthBeat,SweetNsour,Omen,0.84,167,14,17,10
+2024-06-30 10:00:00,Metizport,SweetNsour,11,13,4.12,1.32,Tempo,SweetNsour,Cypher,0.67,175,14,19,5
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,stike,Metizport,Astra,1.01,186,17,17,4
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,Luca,Metizport,Viper,1.00,209,16,18,10
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,OzzyTK,Metizport,Skye,1.00,153,16,15,4
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,melo,Metizport,Deadlock,0.96,195,19,20,9
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,Marky,Metizport,Raze,0.83,187,17,20,3
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,Creamydreamy,SweetNsour,Skye,1.20,225,20,16,12
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,HearthBeat,SweetNsour,Brimstone,1.11,195,17,15,15
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,Ticey,SweetNsour,Yoru,1.09,253,22,20,3
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,Tempo,SweetNsour,Viper,1.05,197,18,16,3
+2024-06-30 10:00:00,Metizport,SweetNsour,12,14,4.12,1.32,Famzzam,SweetNsour,Gekko,0.68,145,13,18,5
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,Aqua,EX0TIK GAMING,Brimstone,1.75,217,14,4,9
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,999kvmil,EX0TIK GAMING,Yoru,1.63,257,15,6,7
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,NeFi,EX0TIK GAMING,Skye,1.40,156,9,4,10
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,Dext,EX0TIK GAMING,Viper,1.12,232,13,10,2
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,mochi,EX0TIK GAMING,Raze,1.12,285,16,11,2
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,Leare,Impulse GW,Raze,1.30,289,14,12,3
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,CORONEL,Impulse GW,Brimstone,0.79,157,7,13,4
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,pdr,Impulse GW,Kayo,0.61,151,7,13,3
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,tripsy,Impulse GW,Viper,0.42,129,5,14,3
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,2,1.75,2.33,Patix,Impulse GW,Skye,0.04,64,2,15,3
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,NeFi,EX0TIK GAMING,Gekko,1.38,206,16,9,3
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,999kvmil,EX0TIK GAMING,Raze,1.29,234,16,11,3
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,mochi,EX0TIK GAMING,Cypher,1.26,266,18,14,5
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,Dext,EX0TIK GAMING,Omen,0.85,238,16,15,3
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,Aqua,EX0TIK GAMING,Breach,0.70,164,11,14,5
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,CORONEL,Impulse GW,Omen,1.44,300,19,15,3
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,Leare,Impulse GW,Gekko,1.28,275,19,15,5
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,Patix,Impulse GW,Sage,0.93,202,14,14,0
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,tripsy,Impulse GW,Viper,0.69,147,9,15,6
+2024-06-30 10:00:00,EX0TIK GAMING,Impulse GW,13,6,1.75,2.33,pdr,Impulse GW,Kayo,0.19,67,2,18,9
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,Leosen,Eintracht Frankfurt,Neon,1.45,354,28,18,7
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,luckeRRR,Eintracht Frankfurt,Cypher,1.26,224,19,14,5
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,eNes,Eintracht Frankfurt,Omen,1.09,208,17,15,12
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,xanarchy,Eintracht Frankfurt,Breach,1.02,167,13,14,18
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,Shazeon,Eintracht Frankfurt,Fade,0.69,151,11,17,8
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,zery,XPERION NXT,Raze,1.55,362,26,19,7
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,CALVIN,XPERION NXT,Reyna,NXT,1.57,295,14,8
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,Kongi,XPERION NXT,Cypher,0.86,155,15,17,4
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,Rexon,XPERION NXT,Omen,0.80,131,10,17,13
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,10,1.15,7.67,Spocki,XPERION NXT,Kayo,0.55,123,8,18,12
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,Leosen,Eintracht Frankfurt,Raze,1.24,285,25,18,1
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,luckeRRR,Eintracht Frankfurt,Yoru,1.01,241,21,18,5
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,xanarchy,Eintracht Frankfurt,Gekko,1.01,172,15,14,13
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,Shazeon,Eintracht Frankfurt,Viper,0.99,216,17,17,10
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,eNes,Eintracht Frankfurt,Clove,0.76,116,10,16,9
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,Spocki,XPERION NXT,Gekko,1.17,227,21,17,2
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,Kongi,XPERION NXT,Viper,1.10,227,20,15,7
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,zery,XPERION NXT,Raze,0.93,212,17,21,2
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,Rexon,XPERION NXT,Fade,0.87,173,14,17,6
+2024-06-30 08:00:00,Eintracht Frankfurt,XPERION NXT,13,11,1.15,7.67,CALVIN,XPERION NXT,Brimstone,NXT,0.89,149,6,9
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,ZmjjKK,EDward Gaming,Neon,19,14,11,+5,177
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,CHICHOO,EDward Gaming,Omen,18,13,7,+5,138
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,nobody,EDward Gaming,Sova,14,11,7,+3,132
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,S1Mon,EDward Gaming,Breach,13,12,8,+1,101
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,Smoggy,EDward Gaming,Chamber,12,12,1,0,97
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,SWERL,Nova Esports,Raze,20,16,1,+4,152
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,GuanG,Nova Esports,Killjoy,15,16,5,-1,128
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,CB,Nova Esports,Fade,11,15,9,-4,100
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,o0o0o,Nova Esports,Viper,9,15,4,-6,75
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,9,1.22,5.55,Ezeir,Nova Esports,Omen,7,14,1,-7,66
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,ZmjjKK,EDward Gaming,Jett,18,13,6,+5,176
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,nobody,EDward Gaming,Skye,20,12,4,+8,171
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,CHICHOO,EDward Gaming,Brimstone,16,11,5,+5,120
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,Smoggy,EDward Gaming,Raze,13,11,8,+2,137
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,S1Mon,EDward Gaming,Fade,8,12,4,-4,95
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,GuanG,Nova Esports,Gekko,12,15,9,-3,150
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,CB,Nova Esports,Skye,13,13,5,0,131
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,Ezeir,Nova Esports,Omen,12,14,4,-2,126
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,o0o0o,Nova Esports,Breach,12,17,6,-5,112
+2024-06-30 07:20:00,EDward Gaming,Nova Esports,13,6,1.22,5.55,SWERL,Nova Esports,Raze,10,16,1,-6,88
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,Zest,BLEED,Kayo,1.21,219,15,14,8
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,sScary,BLEED,Omen,1.12,229,13,14,10
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,crazyguy,BLEED,Sova,0.69,134,8,15,7
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,Retla,BLEED,Killjoy,0.67,140,9,14,0
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,Deryeon,BLEED,Jett,0.60,186,13,18,1
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,t3xture,Gen.G,Jett,2.00,384,26,11,5
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,Meteor,Gen.G,Killjoy,1.14,217,15,12,6
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,Lakia,Gen.G,Sova,0.99,193,15,12,11
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,Karon,Gen.G,Omen,0.88,132,10,11,3
+2024-06-30 07:15:00,BLEED,Gen.G,6,13,51.0,1.02,Munchkin,Gen.G,Kayo,0.81,137,9,12,9
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,Zest,BLEED,Kayo,1.19,194,16,13,12
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,Deryeon,BLEED,Jett,1.18,251,21,17,3
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,crazyguy,BLEED,Sova,1.18,216,18,15,4
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,Retla,BLEED,Cypher,1.17,243,22,17,6
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,sScary,BLEED,Omen,0.60,116,8,16,12
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,Karon,Gen.G,Omen,1.37,274,24,18,12
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,Lakia,Gen.G,Sova,1.01,195,14,15,9
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,t3xture,Gen.G,Jett,0.95,214,18,19,2
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,Meteor,Gen.G,Cypher,0.92,169,13,16,7
+2024-06-30 07:15:00,BLEED,Gen.G,13,10,1.02,51.0,Munchkin,Gen.G,Kayo,0.74,140,9,17,16
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,Deryeon,BLEED,Jett,1.25,276,23,16,2
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,sScary,BLEED,Viper,1.24,229,20,15,3
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,Retla,BLEED,Killjoy,0.78,123,11,17,3
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,Zest,BLEED,Kayo,0.71,143,10,17,12
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,crazyguy,BLEED,Sova,0.53,112,8,18,4
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,Meteor,Gen.G,Killjoy,1.28,231,21,14,3
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,t3xture,Gen.G,Jett,1.10,235,19,17,7
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,Lakia,Gen.G,Gekko,1.06,178,15,14,7
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,Karon,Gen.G,Viper,1.03,158,13,13,9
+2024-06-30 07:15:00,BLEED,Gen.G,11,13,51.0,1.02,Munchkin,Gen.G,Kayo,0.99,175,15,14,14
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,whzy,Bilibili Gaming,Raze,26,19,5,+7,185
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,nephh,Bilibili Gaming,Fade,23,18,9,+5,148
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,Knight,Bilibili Gaming,Breach,18,12,16,+6,132
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,Flex1n,Bilibili Gaming,Omen,14,16,12,-2,118
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,yosemite,Bilibili Gaming,Cypher,13,15,7,-2,114
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,vo0kashu,Dragon Ranger Gaming,Omen,25,17,7,+8,175
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,Nicc,Dragon Ranger Gaming,Fade,17,19,8,-2,143
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,TvirusLuke,Dragon Ranger Gaming,Neon,15,20,7,-5,123
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,Shion7,Dragon Ranger Gaming,Killjoy,14,21,1,-7,126
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,nizhaoTZH,Dragon Ranger Gaming,Viper,9,17,9,-8,65
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,yosemite,Bilibili Gaming,Killjoy,19,16,3,+3,160
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,Flex1n,Bilibili Gaming,Omen,15,16,9,-1,133
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,whzy,Bilibili Gaming,Jett,18,17,5,+1,129
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,Knight,Bilibili Gaming,Sova,14,17,17,-3,151
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,nephh,Bilibili Gaming,Kayo,14,18,16,-4,102
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,TvirusLuke,Dragon Ranger Gaming,Jett,24,18,6,+6,188
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,vo0kashu,Dragon Ranger Gaming,Cypher,19,16,3,+3,148
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,nizhaoTZH,Dragon Ranger Gaming,Omen,16,13,10,+3,124
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,Shion7,Dragon Ranger Gaming,Sova,15,17,4,-2,118
+2024-06-30 05:00:00,Bilibili Gaming,Dragon Ranger Gaming,13,11,1.65,2.54,Nicc,Dragon Ranger Gaming,Kayo,10,16,18,-6,92
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,blaZek1ng,Global Esports,Viper,1.29,198,17,14,2
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,Benkai,Global Esports,Killjoy,1.20,186,14,15,9
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,Polvi,Global Esports,Jett,1.15,238,20,19,3
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,Lightningfast,Global Esports,Sage,0.89,210,18,18,3
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,Russ,Global Esports,Kayo,0.78,166,13,19,17
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,iZu,T1,Jett,1.30,305,25,17,4
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,Sayaplayer,T1,Chamber,1.13,227,19,15,2
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,stax,T1,Kayo,1.03,182,16,15,13
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,xccurate,T1,Viper,0.74,153,11,16,9
+2024-06-30 04:00:00,Global Esports,T1,13,10,1.22,5.55,carpe,T1,Gekko,0.62,177,14,19,7
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Russ,Global Esports,Fade,1.22,272,20,18,5
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,blaZek1ng,Global Esports,Cypher,1.19,209,17,15,5
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Polvi,Global Esports,Neon,0.79,224,14,19,6
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Lightningfast,Global Esports,Omen,0.71,136,9,16,7
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Benkai,Global Esports,Breach,0.67,105,7,16,11
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,stax,T1,Fade,1.53,244,20,11,8
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,iZu,T1,Raze,1.31,304,24,14,3
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Sayaplayer,T1,Chamber,1.08,167,15,11,1
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,carpe,T1,Viper,1.05,192,13,13,16
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,xccurate,T1,Omen,0.62,175,12,18,10
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Russ,Global Esports,Kayo,1.03,171,12,15,13
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Benkai,Global Esports,Sova,1.00,160,11,14,5
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Polvi,Global Esports,Jett,0.85,217,15,18,4
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,blaZek1ng,Global Esports,Killjoy,0.65,180,12,17,2
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Lightningfast,Global Esports,Omen,0.57,103,8,17,10
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,iZu,T1,Killjoy,1.54,280,23,11,5
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,Sayaplayer,T1,Jett,1.52,301,24,12,2
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,carpe,T1,Sova,1.25,190,15,10,7
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,stax,T1,Kayo,1.13,176,12,11,18
+2024-06-30 04:00:00,Global Esports,T1,8,13,5.55,1.22,xccurate,T1,Omen,0.55,94,7,14,6
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,zekken,Sentinels,Raze,1.32,301,22,20,12
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,TenZ,Sentinels,Omen,1.23,247,21,16,6
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,Zellsis,Sentinels,Breach,1.21,151,13,11,15
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,johnqt,Sentinels,Cypher,1.08,185,15,14,8
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,Sacy,Sentinels,Fade,0.87,164,15,17,8
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,Melser,KRÜ Esports,Omen,1.11,213,19,15,6
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,heat,KRÜ Esports,Fade,1.06,221,19,17,5
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,keznit,KRÜ Esports,Raze,0.97,253,19,20,6
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,Klaus,KRÜ Esports,Viper,0.67,140,12,18,4
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,11,1.4,3.5,Shyy,KRÜ Esports,Killjoy,0.52,107,9,16,2
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,TenZ,Sentinels,Omen,1.24,196,18,13,4
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,Sacy,Sentinels,Skye,1.13,198,15,13,4
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,zekken,Sentinels,Raze,1.10,256,19,19,4
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,Zellsis,Sentinels,Viper,1.03,148,12,12,7
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,johnqt,Sentinels,Cypher,0.81,158,11,16,6
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,keznit,KRÜ Esports,Raze,1.20,245,20,16,3
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,heat,KRÜ Esports,Skye,1.01,189,16,15,8
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,Melser,KRÜ Esports,Omen,0.99,172,15,13,7
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,Shyy,KRÜ Esports,Viper,0.84,163,14,15,8
+2024-06-29 19:00:00,Sentinels,KRÜ Esports,13,10,1.4,3.5,Klaus,KRÜ Esports,Cypher,0.65,114,8,16,7
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,supamen,Evil Geniuses,Omen,1.82,305,23,8,4
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,Apoth,Evil Geniuses,Brimstone,1.60,254,18,8,12
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,jawgemo,Evil Geniuses,Raze,1.44,283,18,10,8
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,Derrek,Evil Geniuses,Gekko,1.02,205,14,11,7
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,NaturE,Evil Geniuses,Skye,0.94,162,10,11,6
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,nzr,FURIA,Gekko,1.08,261,16,17,2
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,Khalil,FURIA,Brimstone,0.73,183,12,17,4
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,mwzera,FURIA,Raze,0.57,137,8,17,4
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,xand,FURIA,Fade,0.51,119,7,16,6
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,5,1.42,3.38,havoc,FURIA,Viper,0.30,94,5,16,4
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,jawgemo,Evil Geniuses,Neon,1.55,394,23,14,5
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,NaturE,Evil Geniuses,Breach,1.43,250,17,8,9
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,Derrek,Evil Geniuses,Fade,1.38,253,15,10,10
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,supamen,Evil Geniuses,Omen,1.28,156,12,7,8
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,Apoth,Evil Geniuses,Cypher,0.97,146,8,10,5
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,nzr,FURIA,Breach,1.04,231,13,14,5
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,havoc,FURIA,Cypher,1.03,220,14,14,1
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,Khalil,FURIA,Omen,0.74,182,10,15,2
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,mwzera,FURIA,Neon,0.55,169,9,16,5
+2024-06-29 17:00:00,Evil Geniuses,FURIA,13,4,1.42,3.38,xand,FURIA,Kayo,0.13,71,3,16,5
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,rexxtoned,RTZN,Killjoy,1.50,318,23,16,4
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,mezoky,RTZN,Viper,1.23,248,17,13,3
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,syyse,RTZN,Sova,0.90,163,13,14,4
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,Pax,RTZN,Jett,0.52,187,13,20,0
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,aster,RTZN,Kayo,0.36,82,6,16,5
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,wackie,DSYRE,Killjoy,1.72,367,27,15,5
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,caydeN,DSYRE,Sage,1.28,203,15,12,6
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,Filu,DSYRE,Jett,0.87,189,15,16,1
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,waddle,DSYRE,Sova,0.77,148,13,14,2
+2024-06-29 15:15:00,RTZN,DSYRE,8,13,11.0,1.1,Tag,DSYRE,Viper,0.73,132,9,15,4
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,alannn,NOVO Esports,Killjoy,1.84,255,17,4,3
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,bipo,NOVO Esports,Jett,1.55,296,14,8,6
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,starkk,NOVO Esports,Viper,1.44,218,13,5,4
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,H1ber,NOVO Esports,Sage,1.29,235,14,7,5
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,N,NOVO Esports,Sova,I,1.03,237,13,10
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,eya,Axolotl,Jett,0.96,225,12,14,0
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,Cintyx,Axolotl,Killjoy,0.64,114,5,13,3
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,esc,Axolotl,Viper,0.58,173,8,15,2
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,Snaptor,Axolotl,Reyna,0.49,136,5,14,2
+2024-06-29 14:30:00,NOVO Esports,Axolotl,13,2,1.2,6.0,Brio,Axolotl,Gekko,0.13,81,3,15,2
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,Masic,Galakticos,Jett,1.20,275,29,23,1
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,glovee,Galakticos,Sova,1.04,214,22,22,12
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,DESTRUCT1VEE,Galakticos,Cypher,0.92,157,17,20,6
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,lurzy0y0,Galakticos,Omen,0.71,156,16,22,10
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,ip0TT,Galakticos,Iso,0.57,143,14,26,6
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,Lar0k,PCIFIC Espor,Breach,1.51,255,25,14,18
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,Rosé,PCIFIC Espor,Sova,1.24,238,24,21,13
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,ComeBack,PCIFIC Espor,Jett,0.98,219,24,21,5
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,Celasun,PCIFIC Espor,Killjoy,0.97,189,20,21,3
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,14,16,2.18,1.85,Loita,PCIFIC Espor,Omen,0.94,175,20,21,17
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,glovee,Galakticos,Skye,1.47,233,20,9,10
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,Masic,Galakticos,Raze,1.30,274,21,15,7
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,lurzy0y0,Galakticos,Omen,1.25,229,19,14,8
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,ip0TT,Galakticos,Iso,1.12,263,19,17,7
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,DESTRUCT1VEE,Galakticos,Viper,0.91,186,15,13,2
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,ComeBack,PCIFIC Espor,Jett,1.28,252,19,17,5
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,Lar0k,PCIFIC Espor,Iso,0.84,176,14,18,3
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,Rosé,PCIFIC Espor,Breach,0.65,175,13,20,7
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,Loita,PCIFIC Espor,Omen,0.58,128,11,19,8
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,13,9,1.85,2.18,Celasun,PCIFIC Espor,Cypher,0.55,159,11,20,9
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,ip0TT,Galakticos,Iso,1.61,345,29,16,4
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,lurzy0y0,Galakticos,Omen,0.88,155,12,14,8
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,DESTRUCT1VEE,Galakticos,Cypher,0.82,175,14,17,5
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,Masic,Galakticos,Raze,0.70,126,10,15,5
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,glovee,Galakticos,Sova,0.62,122,10,16,4
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,Loita,PCIFIC Espor,Omen,1.78,330,27,12,7
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,Rosé,PCIFIC Espor,Breach,1.04,159,12,14,13
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,Celasun,PCIFIC Espor,Cypher,1.00,161,13,15,6
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,Lar0k,PCIFIC Espor,Gekko,0.83,149,11,16,9
+2024-06-29 14:20:00,Galakticos,PCIFIC Espor,10,13,2.18,1.85,ComeBack,PCIFIC Espor,Raze,0.71,191,15,18,1
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,PROFEK,GoNext Esports,Viper,1.66,282,17,8,7
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,Minny,GoNext Esports,Killjoy,1.64,278,19,9,1
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,Buld,GoNext Esports,Sage,1.26,211,15,9,7
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,zeek,GoNext Esports,Sova,1.16,218,14,10,4
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,alexiiik,GoNext Esports,Jett,0.63,185,11,15,3
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,msh,Incognito,Killjoy,1.01,228,14,14,1
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,Stix,Incognito,Viper,0.97,211,12,14,2
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,demek,Incognito,Reyna,0.67,194,11,16,2
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,darkosek,Incognito,Jett,0.47,117,7,15,1
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,4,1.02,51.0,adm1k,Incognito,Sova,0.38,146,7,17,3
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,Minny,GoNext Esports,Killjoy,1.86,357,29,14,3
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,PROFEK,GoNext Esports,Omen,1.51,239,19,10,8
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,Buld,GoNext Esports,Sova,1.17,184,14,15,7
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,zeek,GoNext Esports,Kayo,0.77,161,11,17,12
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,alexiiik,GoNext Esports,Jett,0.60,180,13,18,5
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,darkosek,Incognito,Jett,1.27,299,25,19,1
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,Stix,Incognito,Sova,1.07,161,15,14,5
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,demek,Incognito,Clove,0.69,157,11,18,9
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,adm1k,Incognito,Phoenix,0.65,171,10,18,13
+2024-06-29 14:15:00,GoNext Esports,Incognito,13,9,1.02,51.0,msh,Incognito,Killjoy,0.58,153,13,18,3
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,MCD,DIVIZON,Cypher,1.45,223,17,10,6
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,Linus,DIVIZON,Omen,1.45,296,21,14,10
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,Ziad,DIVIZON,Raze,1.10,247,18,15,4
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,eXampL,DIVIZON,Skye,1.08,187,14,13,13
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,SPMAK,DIVIZON,Breach,0.99,184,13,14,14
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,Lime,FOKUS,Yoru,1.25,268,19,16,4
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,al0rante,FOKUS,Astra,1.12,193,13,15,9
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,bucher,FOKUS,Omen,1.06,220,17,16,5
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,SEIDER,FOKUS,Fade,0.56,143,8,18,8
+2024-06-29 14:00:00,DIVIZON,FOKUS,13,7,1.38,3.63,YaBoiLewis,FOKUS,Raze,0.42,137,9,18,4
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,MCD,DIVIZON,Viper,1.06,172,15,13,4
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,SPMAK,DIVIZON,Fade,1.02,204,18,17,2
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,Ziad,DIVIZON,Yoru,1.01,214,17,18,5
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,eXampL,DIVIZON,Gekko,0.96,132,12,13,6
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,Linus,DIVIZON,Omen,0.84,179,15,19,5
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,SEIDER,FOKUS,Gekko,1.38,254,22,13,7
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,YaBoiLewis,FOKUS,Skye,1.02,219,18,17,7
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,Lime,FOKUS,Yoru,0.89,182,14,16,8
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,al0rante,FOKUS,Viper,0.87,171,16,16,2
+2024-06-29 14:00:00,DIVIZON,FOKUS,11,13,3.63,1.38,bucher,FOKUS,Brimstone,0.75,109,10,15,4
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,eXampL,DIVIZON,Sova,1.09,182,15,13,5
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,Ziad,DIVIZON,Raze,0.92,232,15,17,2
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,Linus,DIVIZON,Omen,0.82,182,13,17,7
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,MCD,DIVIZON,Cypher,0.68,138,11,15,2
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,SPMAK,DIVIZON,Breach,0.59,140,10,17,9
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,Lime,FOKUS,Sage,1.55,271,22,10,9
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,YaBoiLewis,FOKUS,Kayo,1.31,233,16,14,15
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,al0rante,FOKUS,Cypher,1.13,204,17,14,2
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,SEIDER,FOKUS,Gekko,1.00,184,14,13,4
+2024-06-29 14:00:00,DIVIZON,FOKUS,9,13,3.63,1.38,bucher,FOKUS,Omen,0.90,140,10,13,10
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,Killu,Akroma,Viper,1.50,270,25,15,6
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,OniBy,Akroma,Sova,1.12,218,18,16,4
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,bramz,Akroma,Gekko,0.98,252,21,18,4
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,TiduS,Akroma,Killjoy,0.86,182,15,17,3
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,soren,Akroma,Jett,0.78,148,11,16,3
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,memset,Solary,Killjoy,1.16,200,19,16,1
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,DarkLight,Solary,Viper,1.04,203,17,17,8
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,Kinguyen,Solary,Jett,0.91,262,20,22,8
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,APO,Solary,Sova,0.90,151,13,15,7
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,Sevire,Solary,Sage,0.64,145,13,20,10
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,soren,Akroma,Jett,1.13,257,30,25,6
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,bramz,Akroma,Phoenix,1.12,229,27,23,7
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,Killu,Akroma,Killjoy,0.97,206,23,23,5
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,OniBy,Akroma,Sova,0.90,182,18,21,11
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,TiduS,Akroma,Omen,0.58,110,11,23,16
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,APO,Solary,Deadlock,1.30,252,28,22,14
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,Sevire,Solary,Sova,1.14,213,20,20,17
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,Kinguyen,Solary,Jett,1.08,219,24,21,7
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,memset,Solary,Cypher,1.06,205,23,24,8
+2024-06-29 13:45:00,Akroma,Solary,15,17,1.83,2.2,DarkLight,Solary,Omen,1.02,186,20,22,15
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,Killu,Akroma,Deadlock,1.40,252,23,16,3
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,bramz,Akroma,Skye,1.02,251,21,19,5
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,TiduS,Akroma,Astra,0.87,150,13,16,10
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,OniBy,Akroma,Sage,0.83,156,12,16,12
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,soren,Akroma,Neon,0.61,164,14,20,4
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,APO,Solary,Skye,1.34,275,22,17,8
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,DarkLight,Solary,Omen,1.17,216,18,16,15
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,Sevire,Solary,Viper,1.06,221,18,17,6
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,Kinguyen,Solary,Raze,0.97,209,18,18,4
+2024-06-29 13:45:00,Akroma,Solary,13,11,2.2,1.83,memset,Solary,Cypher,0.80,130,11,15,6
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,jimbk,LONETEAM,Sova,1.52,318,26,17,7
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,Javelin,LONETEAM,Raze,1.17,269,21,20,7
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,Ayyzicle,LONETEAM,Gekko,1.00,154,14,14,5
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,FrancyBald,LONETEAM,Omen,0.71,187,15,17,7
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,Lupo,LONETEAM,Killjoy,0.40,111,9,19,5
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,dok,HGE Esport,Kayo,1.44,215,20,15,15
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,BALLI,HGE Esport,Sova,1.37,274,22,15,9
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,Byron,HGE Esport,Omen,1.10,203,18,15,9
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,otom,HGE Esport,Jett,0.76,196,14,21,7
+2024-06-29 13:25:00,LONETEAM,HGE Esport,10,13,3.0,1.5,Braso,HGE Esport,Killjoy,0.67,176,13,19,4
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,chanformer,NXT,Cypher,1.68,247,16,5,2
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,Bully,NXT,Omen,1.38,230,13,8,15
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,MaximN,NXT,Yoru,1.31,244,15,9,1
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,ReQz,NXT,Sova,1.24,191,12,8,6
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,Dev0,NXT,Jett,1.16,255,15,10,3
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,Vitie,apinaorkesteri,Omen,1.08,229,12,13,6
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,Drog,apinaorkesteri,Sova,0.82,164,10,10,3
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,stolen,apinaorkesteri,Killjoy,0.66,157,9,14,2
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,Kalkkuna,apinaorkesteri,Jett,0.47,147,8,14,1
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,3,1.52,2.92,Brädi,apinaorkesteri,Breach,0.04,38,1,16,3
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,chanformer,NXT,Viper,1.27,217,21,15,12
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,MaximN,NXT,Fade,1.24,266,24,18,12
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,Dev0,NXT,Raze,1.00,256,23,19,6
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,Bully,NXT,Brimstone,0.85,191,16,20,8
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,ReQz,NXT,Gekko,0.51,126,11,21,6
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,Brädi,apinaorkesteri,Fade,1.40,270,26,18,6
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,Drog,apinaorkesteri,Gekko,0.96,192,20,20,3
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,Vitie,apinaorkesteri,Brimstone,0.90,169,14,19,17
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,stolen,apinaorkesteri,Viper,0.90,174,16,18,4
+2024-06-29 12:25:00,NXT,apinaorkesteri,12,14,2.92,1.52,Kalkkuna,apinaorkesteri,Raze,0.83,194,16,20,7
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,chanformer,NXT,Astra,1.34,256,21,13,3
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,ReQz,NXT,Skye,1.26,281,23,18,7
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,Dev0,NXT,Raze,1.20,308,24,18,5
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,MaximN,NXT,Deadlock,0.90,166,14,15,1
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,Bully,NXT,Omen,0.55,100,8,14,6
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,stolen,apinaorkesteri,Cypher,1.08,209,16,17,7
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,Kalkkuna,apinaorkesteri,Raze,1.05,252,20,19,2
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,Vitie,apinaorkesteri,Omen,0.99,188,14,17,12
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,Drog,apinaorkesteri,Iso,0.86,218,17,19,5
+2024-06-29 12:25:00,NXT,apinaorkesteri,13,9,1.52,2.92,Brädi,apinaorkesteri,Breach,0.77,150,11,18,13
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,tripsy,Impulse GW,Killjoy,1.48,301,23,13,5
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,Leare,Impulse GW,Jett,1.26,257,20,15,2
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,pdr,Impulse GW,Kayo,1.03,207,14,15,13
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,CORONEL,Impulse GW,Omen,1.01,111,10,10,14
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,Patix,Impulse GW,Sova,0.91,160,11,14,7
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,Cunha20,SAW,Omen,1.24,218,18,14,12
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,Addicted,SAW,Sova,0.93,150,11,14,3
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,brk,SAW,Jett,0.87,202,17,16,2
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,GrTw,SAW,Killjoy,0.78,148,10,16,4
+2024-06-29 12:20:00,Impulse GW,SAW,13,9,1.4,3.5,Fragger,SAW,Kayo,0.73,177,11,19,16
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,Patix,Impulse GW,Sova,1.13,185,14,15,7
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,Leare,Impulse GW,Neon,1.06,252,21,17,2
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,CORONEL,Impulse GW,Omen,1.04,212,18,17,7
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,tripsy,Impulse GW,Killjoy,0.84,201,18,18,3
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,pdr,Impulse GW,Breach,0.68,126,10,18,8
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,Addicted,SAW,Sova,1.67,284,21,12,15
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,Cunha20,SAW,Omen,1.22,198,18,14,10
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,brk,SAW,Yoru,0.84,180,16,17,4
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,GrTw,SAW,Cypher,0.81,164,14,17,3
+2024-06-29 12:20:00,Impulse GW,SAW,10,13,3.5,1.4,Fragger,SAW,Iso,0.77,213,16,21,7
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,Leare,Impulse GW,Jett,1.50,290,19,16,3
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,CORONEL,Impulse GW,Viper,1.16,235,15,16,5
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,Patix,Impulse GW,Gekko,0.59,132,8,17,7
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,tripsy,Impulse GW,Killjoy,0.44,124,8,17,2
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,pdr,Impulse GW,Kayo,0.27,82,5,17,7
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,GrTw,SAW,Killjoy,1.88,334,24,8,7
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,Fragger,SAW,Sage,1.38,265,19,12,8
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,Cunha20,SAW,Viper,1.25,227,17,11,4
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,brk,SAW,Jett,0.80,161,12,12,2
+2024-06-29 12:20:00,Impulse GW,SAW,6,13,3.5,1.4,Addicted,SAW,Sova,0.76,166,11,12,4
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,Yuta,CICADAS Gaming,Cypher,0.82,216,12,16,4
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,Yohpa,CICADAS Gaming,Gekko,0.78,160,11,16,5
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,NowaXxZang,CICADAS Gaming,Omen,0.70,168,10,15,3
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,rodeN,CICADAS Gaming,Kayo,0.66,165,7,15,10
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,Sp1ke,CICADAS Gaming,Neon,0.35,135,8,16,3
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,thebigfiz,Mandatory,Viper,1.78,319,19,7,11
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,Goaster,Mandatory,Raze,1.71,332,23,11,3
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,AKUMAAAAA,Mandatory,Omen,1.32,232,15,11,10
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,HyP,Mandatory,Fade,1.19,211,13,9,5
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,4,13,2.39,1.72,SoOn,Mandatory,Killjoy,0.87,143,8,10,5
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,rodeN,CICADAS Gaming,Breach,1.14,204,12,13,3
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,Yohpa,CICADAS Gaming,Yoru,1.00,241,14,15,0
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,Yuta,CICADAS Gaming,Cypher,0.47,110,6,14,2
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,Sp1ke,CICADAS Gaming,Raze,0.37,139,7,15,2
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,NowaXxZang,CICADAS Gaming,Omen,0.29,95,5,16,3
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,CyvOph,Mandatory,Raze,1.86,382,22,11,7
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,thebigfiz,Mandatory,Breach,1.50,222,13,6,14
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,SoOn,Mandatory,Cypher,1.18,223,13,9,5
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,HyP,Mandatory,Gekko,1.17,173,11,7,6
+2024-06-29 12:00:00,CICADAS Gaming,Mandatory,3,13,2.39,1.72,AKUMAAAAA,Mandatory,Omen,1.06,205,14,11,8
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,d3mur,Outplayed,Jett,1.33,324,28,19,2
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,Z3RO,Outplayed,Omen,1.12,190,16,15,10
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,shinnok,Outplayed,Cypher,1.03,170,14,13,6
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,sword,Outplayed,Sova,0.89,143,12,15,7
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,Morphiw0w,Outplayed,Deadlock,0.82,157,14,16,8
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,al1en,VX300 Gaming,Omen,1.17,149,16,14,9
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,Ivan4ezz,VX300 Gaming,Kayo,1.14,204,15,14,12
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,basya,VX300 Gaming,Killjoy,1.01,208,16,18,12
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,DrastZ,VX300 Gaming,Sova,0.85,223,18,21,7
+2024-06-29 12:00:00,Outplayed,VX300 Gaming,13,11,1.8,2.25,Anq,VX300 Gaming,Jett,0.76,148,13,17,2
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,Akai,Team Falcons,Raze,1.86,375,25,10,2
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,KHaaLiD,Team Falcons,Breach,1.66,285,18,9,11
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,Moh,Team Falcons,Omen,1.52,239,16,7,3
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,SpYzera,Team Falcons,Skye,0.89,113,5,9,17
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,Sand,Team Falcons,Cypher,0.63,152,9,13,3
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,vAgue,Unity Esports,Raze,0.86,240,14,16,1
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,cheK,Unity Esports,Chamber,0.81,194,11,15,0
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,xelouz,Unity Esports,Breach,0.70,166,10,14,2
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,Near,Unity Esports,Skye,0.58,129,8,14,2
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,4,1.08,13.5,SnipKw,Unity Esports,Omen,0.47,117,5,14,9
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,Akai,Team Falcons,Raze,1.65,306,22,10,2
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,Sand,Team Falcons,Viper,1.24,241,17,10,3
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,KHaaLiD,Team Falcons,Sage,1.16,225,15,13,6
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,SpYzera,Team Falcons,Skye,1.08,170,11,11,8
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,Moh,Team Falcons,Brimstone,0.87,179,11,15,10
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,cheK,Unity Esports,Cypher,1.26,284,19,14,1
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,vAgue,Unity Esports,Raze,0.74,192,12,16,1
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,SnipKw,Unity Esports,Omen,0.70,161,11,15,5
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,xelouz,Unity Esports,Breach,0.65,123,9,14,4
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,6,1.08,13.5,Near,Unity Esports,Skye,0.63,141,8,17,8
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,Moh,Team Falcons,Omen,1.23,249,20,17,13
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,SpYzera,Team Falcons,Gekko,1.18,195,17,16,10
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,Akai,Team Falcons,Raze,1.17,242,20,16,3
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,Sand,Team Falcons,Cypher,1.13,205,18,17,6
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,KHaaLiD,Team Falcons,Breach,0.92,174,14,16,11
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,vAgue,Unity Esports,Raze,1.27,271,24,17,3
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,cheK,Unity Esports,Cypher,0.86,170,15,16,4
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,Near,Unity Esports,Fade,0.83,175,14,18,8
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,SnipKw,Unity Esports,Omen,0.80,177,15,18,9
+2024-06-29 12:00:00,Team Falcons,Unity Esports,13,11,1.08,13.5,xelouz,Unity Esports,Breach,0.76,182,14,20,9
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,MOJJ,Eternal Fire,Killjoy,1.36,273,23,14,3
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,JN3v1cE,Eternal Fire,Kayo,1.11,172,12,15,18
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,KROSTALY,Eternal Fire,Jett,0.95,175,15,13,4
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,SasuKe,Eternal Fire,Omen,0.94,159,14,14,9
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,Wasp,Eternal Fire,Sova,0.84,158,14,16,4
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,LewN,Galatasaray Esports,Jett,1.30,306,25,19,3
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,Padisah,Galatasaray Esports,Killjoy,0.92,141,13,14,0
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,Docent,Galatasaray Esports,Omen,0.91,171,15,16,8
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,Touven,Galatasaray Esports,Kayo,0.90,162,11,16,15
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,13,11,1.32,4.12,CyderX,Galatasaray Esports,Sova,0.88,117,8,13,6
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,Wasp,Eternal Fire,Iso,1.14,255,19,19,4
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,JN3v1cE,Eternal Fire,Cypher,1.11,265,20,20,3
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,MOJJ,Eternal Fire,Sova,0.82,171,13,17,6
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,SasuKe,Eternal Fire,Omen,0.75,125,10,16,7
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,KROSTALY,Eternal Fire,Yoru,0.68,163,12,19,7
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,Docent,Galatasaray Esports,Omen,1.88,401,31,15,14
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,Padisah,Galatasaray Esports,Killjoy,1.04,198,16,14,4
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,LewN,Galatasaray Esports,Jett,0.98,240,18,17,4
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,Touven,Galatasaray Esports,Breach,0.95,215,17,16,5
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,9,13,4.12,1.32,CyderX,Galatasaray Esports,Sova,0.78,103,9,12,5
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,SasuKe,Eternal Fire,Sova,0.80,178,6,14,7
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,KROSTALY,Eternal Fire,Reyna,0.78,158,9,13,1
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,Wasp,Eternal Fire,Gekko,0.60,154,8,13,3
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,JN3v1cE,Eternal Fire,Viper,0.46,118,5,13,3
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,MOJJ,Eternal Fire,Killjoy,0.41,124,6,14,1
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,Touven,Galatasaray Esports,Sova,1.57,238,14,5,5
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,Padisah,Galatasaray Esports,Killjoy,1.44,247,16,6,0
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,Docent,Galatasaray Esports,Viper,1.40,274,14,8,5
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,LewN,Galatasaray Esports,Jett,1.29,308,16,11,2
+2024-06-29 11:10:00,Eternal Fire,Galatasaray Esports,2,13,4.12,1.32,CyderX,Galatasaray Esports,Harbor,1.12,110,7,4,7
 2024-06-29 11:00:00,Chipi Chapa's,Acend,13,10,1.38,3.63,globeX,Chipi Chapa's,Yoru,1.47,315,23,16,8
 2024-06-29 11:00:00,Chipi Chapa's,Acend,13,10,1.38,3.63,bzt,Chipi Chapa's,Sova,1.07,205,17,17,5
 2024-06-29 11:00:00,Chipi Chapa's,Acend,13,10,1.38,3.63,ZachKappa,Chipi Chapa's,Killjoy,1.05,174,16,14,2

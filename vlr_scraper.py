@@ -218,6 +218,7 @@ if __name__ == "__main__":
     cutoff_date = datetime(2024, 6, 25)
     
     all_dfs = []  # To accumulate all scraped data across batches.
+    # l1 defines the start and end page numbers for each batch.
     l1 = [1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190, 200, 210, 220, 230, 240, 250, 260, 270, 280]
     for i in range(len(l1) - 1):
         url_list = get_all_vlrgg_url(l1[i], l1[i + 1])
@@ -239,7 +240,10 @@ if __name__ == "__main__":
             count += 1
         if df_list:
             df_total = pd.concat(df_list, ignore_index=True)
-            df_total.to_csv(f"batch_{l1[i]}-{l1[i+1]}.csv", index=False)
+            # Save each batch as its own CSV file.
+            batch_filename = f"batch_{l1[i]}-{l1[i+1]}.csv"
+            df_total.to_csv(batch_filename, index=False)
+            print(f"Saved {batch_filename} with {len(df_total)} records.")
             all_dfs.append(df_total)
         else:
             print(f"No valid data found in batch {l1[i]}-{l1[i+1]}")
@@ -248,15 +252,11 @@ if __name__ == "__main__":
             print("Encountered a match before June 25, 2024. Stopping further scraping.")
             break
     
+    # Optionally, combine all batches into one file.
     if all_dfs:
         full_data = pd.concat(all_dfs, ignore_index=True)
         full_data = full_data.sample(frac=1, random_state=42).reset_index(drop=True)
-        train_size = int(0.75 * len(full_data))
-        train_data = full_data.iloc[:train_size]
-        backtest_data = full_data.iloc[train_size:]
-        
-        train_data.to_csv("train_data.csv", index=False)
-        backtest_data.to_csv("backtest_data.csv", index=False)
-        print(f"Total records: {len(full_data)}. Training: {len(train_data)}, Backtesting: {len(backtest_data)}.")
+        full_data.to_csv("full_val_wdata.csv", index=False)
+        print(f"Total records: {len(full_data)}. Combined data saved to full_data.csv.")
     else:
         print("No data was scraped.")
